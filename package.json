@@ -1,0 +1,22 @@
+{
+  "name": "pim-fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-compile": "sass stylesheets/sass:stylesheets/css",
+    "sass-watch": "sass --watch stylesheets/sass:stylesheets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramirocorbalan/pim-fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramirocorbalan/pim-fullstack/issues"
+  },
+  "homepage": "https://github.com/ramirocorbalan/pim-fullstack#readme"
+}
